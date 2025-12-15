@@ -1,0 +1,4 @@
+/* Minimal custom styles - most styling is handled by Tailwind */
+#root {
+  width: 100%;
+}
